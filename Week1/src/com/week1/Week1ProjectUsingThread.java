@@ -1,3 +1,5 @@
+package com.week1;
+
 import java.util.Random;
 
 public class Week1ProjectUsingThread implements Runnable{

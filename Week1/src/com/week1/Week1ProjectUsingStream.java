@@ -1,3 +1,5 @@
+package com.week1;
+
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.stream.Stream;
 

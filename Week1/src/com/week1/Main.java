@@ -1,3 +1,7 @@
+package com.week1;
+
+import com.week1.utility.Employee;
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.ExecutorService;
@@ -6,6 +10,7 @@ import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {
+
 
         List<Employee> employees = Arrays.asList(
                 new Employee(1, "Alice",2, 50000),
